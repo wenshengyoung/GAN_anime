@@ -72,4 +72,3 @@ for epoch in range(epochs):
 torch.save(generator.state_dict(), './generator.pth')
 torch.save(discriminator.state_dict(), './discriminator.pth')
 
-
