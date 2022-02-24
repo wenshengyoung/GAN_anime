@@ -1,14 +1,3 @@
-"""
-Filename:
-Author:杨文圣  Version:  Date：2022-02-23  10:52 
-Description:
-Others:
-Function List:
-History:
-  1.Date:
-    Author:
-    Modification:
-"""
 import torch
 import torch.nn as nn
 from torchvision import transforms
