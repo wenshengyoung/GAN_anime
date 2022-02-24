@@ -63,9 +63,3 @@ class Generator(nn.Module):
         output = self.net(input)
         return output
 
-
-
-
-
-
-
