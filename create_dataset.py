@@ -35,13 +35,3 @@ def save_img(tensor, fp):
     im = Image.fromarray(ndarr)
     im.save(fp)
 
-
-
-
-
-
-
-
-
-
-
